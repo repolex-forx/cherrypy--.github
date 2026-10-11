@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cherrypy/.github",
+  "@type": "gh:Repository",
+  "gh:name": ".github",
+  "gh:owner": "cherrypy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/cherrypy/.github/commit/c0263bf26903b45182e81bb639cdd74d9ba394b1",
+      "git:hexsha": "c0263bf26903b45182e81bb639cdd74d9ba394b1",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

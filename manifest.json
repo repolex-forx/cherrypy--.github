@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "cherrypy",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "c0263bf26903b45182e81bb639cdd74d9ba394b1",
+      "parsed_at": "2026-10-11T09:08:33.883634+00:00",
+      "filetree": "filetree/c0263bf26903b45182e81bb639cdd74d9ba394b1.nq.gz",
+      "blobs": [
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/08c5e262e6b4b2ce85114a95d3a4111790415d25.nq.gz",
+        "blob/e0edeca0c62b207557466cf3ad40ee2efe9fcc71.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
